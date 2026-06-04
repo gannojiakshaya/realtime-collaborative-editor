@@ -60,5 +60,4 @@ Realtime Collaborative Editor demonstrates the power of WebSocket-based communic
 
 ## Output
 
-![Project Output](Screenshot 2026-06-04 152802.png)
-
+![Project Output](output.png)
